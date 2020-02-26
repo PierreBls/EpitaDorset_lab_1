@@ -1,0 +1,54 @@
+body{
+    color: whitesmoke;
+     background-color: #1d1d1f;
+    margin : 0%;
+    padding:0%;
+    font-family: 'Lobster Two', ;
+}
+
+#title{
+    background-image: linear-gradient(#1d1d1f, blueviolet);
+    font-family: 'Lobster Two', ;
+    text-align: center;
+    font-size: 100px;
+    padding: 100px;
+    margin: 0px;
+}
+
+#Container{
+    width: 100%;
+    padding : 0%;
+    margin: 0%;
+}
+
+#monday{
+    text-align: center;
+    font-size: 50px;
+    margin: 10% auto;
+    width: 80%;
+    background-color: rgb(175, 38, 38);
+    padding-block-end: 30%;
+    color : whitesmoke;
+}
+
+h4{
+    padding-top: 5%;
+}
+
+#tuesday{
+    text-align: center;
+    font-size: 50px;
+    margin: 10%;
+    width: 80%;
+    background-color: rgb(175, 38, 38);
+    padding-block-end: 30%
+}
+
+#Other_days{
+    text-align: center;
+    font-size: 50px;
+    margin: 10%;
+    width: 80%;
+    background-color: rgb(175, 38, 38);
+    padding-block-end: 30%
+}
