@@ -27,12 +27,20 @@ body{
     margin: 10% auto;
     width: 80%;
     background-color: rgb(175, 38, 38);
-    padding-block-end: 30%;
+    padding-block-end: 0%;
     color : whitesmoke;
 }
 
 h4{
     padding-top: 5%;
+}
+
+h6{
+    padding-bottom: 10%;
+}
+
+a{
+    color: #1d1d1f;
 }
 
 #tuesday{
@@ -41,7 +49,6 @@ h4{
     margin: 10%;
     width: 80%;
     background-color: rgb(175, 38, 38);
-    padding-block-end: 30%
 }
 
 #Other_days{
@@ -50,5 +57,4 @@ h4{
     margin: 10%;
     width: 80%;
     background-color: rgb(175, 38, 38);
-    padding-block-end: 30%
 }
