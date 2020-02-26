@@ -15,15 +15,18 @@ div {
 #Title{
     font-size: 50px;
     text-align: center;
+    color: whitesmoke;
 }
 
-#Buttum_1{
-    font-size: 25px;
-    text-align: left;
-    text-indent: 50px;
+#Sale{
+    font-size: 35px;
+    text-indent: 100px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: whitesmoke;
 }
 
-#Buttum_2{
-    font-size: 25px;
-    text-align: right;
+#Home{
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: 'Source Sans Pro', sans-serif;
 }
