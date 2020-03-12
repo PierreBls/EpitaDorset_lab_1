@@ -35,5 +35,3 @@ var Hello = function(){
 
 console.log(Hello);
 
-var x= Hello();
-console.log(x);
